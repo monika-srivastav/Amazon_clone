@@ -151,6 +151,7 @@ margin-left: 15px;
   justify-content: center;
   font-size: 0.85rem;
   width: 80%;
+  padding-left: 2px;
   margin-bottom: 25px;
  
 }
@@ -257,4 +258,397 @@ ul a{
   display: flex;
  
   justify-content: center;
+}
+
+@media(max-width:991px){
+  .add-1{
+   
+    margin-left:18px ;
+  }
+  .add-icon{
+   
+    margin-left: 7px;
+  }
+  .nav-search{
+    
+    width: 500px;
+    height: 35px;
+   
+  }
+  span{
+    font-size: 0.6rem;
+  
+  }
+  .nav-2{
+    font-size: 0.75rem;
+    
+  }
+  .nav-cart{
+    font-size:0.75rem ;
+    
+  }
+  .nav-cart i{
+    font-size: 20px;
+  
+  }
+  .panel{
+    height: 35px;
+   
+  }
+  .panel-ops{
+    width: 65%;
+  }
+  .panel-ops p{
+ 
+  font-size: 0.80rem;
+  margin-left: 18px;
+  }
+  .panel-deals{
+    font-size: 0.8rem;
+    
+  }
+  .hero-section{
+   
+    height: 300px;
+    margin-top:100px;
+   
+  
+  }
+  .hero-msg{
+   
+    height: 35px;
+   
+    font-size: 0.80rem;
+    width: 75%;
+   
+   
+  }
+  .box{
+    margin-top:  15px;
+    height: 320px;
+    width: 18%;
+  
+  }
+  .box-img{
+   
+    width: 100%;
+  /* height: 100%; */
+ 
+  }
+  .box h2{
+  font-size: 20px;
+  }
+  .box-img .img-b2{
+  
+   width:47% ;
+   height:90px ;
+  }
+  
+  .foot-panel1{
+   
+    height: 40px;
+   
+    font-size: 0.80rem;
+   
+  }
+  .foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  
+  ul a{
+    
+    font-size: 0.80rem;
+    
+  }
+  .foot-panel3{
+   
+    height: 60px;
+    
+  }
+  .foot-panel4{
+    
+    height: 90px;
+     font-size: 0.5rem;
+  
+  }
+ 
+ 
+ 
+ 
+  
+}
+@media(max-width:768px){
+  .add-1{
+  font-size: 13px;
+     margin-left:15px ;
+   }
+   .add-2{
+    font-size: 13px;
+   }
+   .add-icon{
+    font-size: 13px;
+    
+     margin-left: 5px;
+   }
+   .nav-search{
+     
+     width: 300px;
+     height: 25px;
+    
+   }
+   span{
+     font-size: 0.5rem;
+   
+   }
+   .nav-2{
+     font-size: 0.65rem;
+     
+   }
+   .nav-cart{
+   
+     font-size:0.65rem ;
+     
+   }
+   .nav-cart i{
+    padding-top: 8px;
+     font-size: 15px;
+   
+   }
+   .panel{
+     height: 30px;
+    
+   }
+   .panel-ops{
+     width: 60%;
+   }
+   .panel-ops p{
+  
+   font-size: 0.75rem;
+   margin-left: 18px;
+   }
+   .panel-deals{
+     font-size: 0.7rem;
+     
+   }
+   .hero-section{
+    
+     height: 250px;
+     margin-top:100px;
+    
+   
+   }
+   .hero-msg{
+    
+     height: 30px;
+    
+     font-size: 0.75rem;
+     width: 70%;
+    
+    
+   }
+   .box{
+     margin-top:  15px;
+     height: 250px;
+     width: 18%;
+   
+   }
+   .box-img{
+    
+     width: 100%;
+   /* height: 100%; */
+  
+   }
+   .box h2{
+   font-size: 15px;
+   }
+   .box-img .img-b2{
+   
+    width:47% ;
+    height:73px ;
+   }
+   
+   .foot-panel1{
+    
+     height: 30px;
+    
+     font-size: 0.75rem;
+    
+   }
+   .foot-panel2{
+    
+     height: 350px;
+    
+   }
+   
+   
+   
+   ul a{
+     
+     font-size: 0.75rem;
+     
+   }
+   .foot-panel3{
+    
+     height: 50px;
+     
+   }
+   .foot-panel4{
+     
+     height: 80px;
+      font-size: 0.4rem;
+   
+   }
+  
+  
+  
+  
+   
+  }
+  
+  
+     
+
+@media(max-width:500px){
+  .add-1{
+    font-size: 10px;
+       margin-left:12px ;
+     }
+     .add-2{
+      font-size: 10px;
+     }
+     .add-icon{
+      font-size: 13px;
+      
+       margin-left: 5px;
+     }
+     .nav-search{
+       margin-left: 2px;
+       width: 180px;
+       height: 25px;
+      
+     }
+     .nav-search input{
+      font-size: 14px;
+     }
+     .nav-signin{
+      margin-left: 10px;
+     }
+     span{
+       font-size: 0.4rem;
+     
+     }
+     .nav-2{
+       font-size: 0.60rem;
+       
+     }
+     .nav-cart{
+     
+       font-size:0.65rem ;
+       
+     }
+     .nav-cart i{
+      padding-top: 8px;
+       font-size: 15px;
+     
+     }
+     .panel{
+      
+       height: 45px;
+      
+     }
+     .panel-ops{
+       width: 50%;
+     }
+     .panel-ops p{
+    
+     font-size: 0.70rem;
+     margin-left: 18px;
+     }
+     .panel-deals{
+       font-size: 0.6rem;
+       
+     }
+     .hero-section{
+      
+       height: 200px;
+       margin-top:100px;
+      
+     
+     }
+     .hero-msg{
+      
+       height: 35px;
+      
+       font-size: 0.65rem;
+       width: 75%;
+      
+      
+     }
+     .box{
+       margin-top:  15px;
+       height: 180px;
+       width: 16%;
+     
+     }
+     .box-img{
+      
+       width: 100%;
+     /* height: 100%; */
+    
+     }
+     .box h2{
+     font-size: 12px;
+     }
+     .box-img .img-b2{
+     
+      width:47% ;
+      height:33px ;
+     }
+     
+     .foot-panel1{
+      
+       height: 20px;
+      
+       font-size: 0.70rem;
+      
+     }
+     .foot-panel2{
+      
+       height: 300px;
+      
+     }
+     
+     ul p{
+      font-size: 18px;
+     }
+     
+     ul a{
+       
+       font-size: 0.70rem;
+       
+     }
+     .foot-panel3{
+      
+       height: 40px;
+       
+     }
+     .foot-panel4{
+       
+       height: 70px;
+        font-size: 0.3rem;
+     
+     }
+    
+    
+    
+    
+     
+    }
+  
 }
